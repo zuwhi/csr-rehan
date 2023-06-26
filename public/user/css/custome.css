@@ -229,11 +229,11 @@ section {
     justify-content: center;
     align-items: center;
 }
-#navii{
+/* #navii{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 #record{
     display: flex;
     justify-content: end;
@@ -260,7 +260,7 @@ section {
 
     
     position: absolute;
-right: -143px;
+
 
 
 }

@@ -25,20 +25,20 @@
                         <div id="carouselExampleControls" class="carousel slide h-25" data-bs-ride="carousel">
                             <div class="carousel-inner h-25 ">
                                 <div class="carousel-item active d-flex">
-                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news" alt="..." style="filter: brightness(70%)">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news rounded" alt="..." style="filter: brightness(70%)">
                                     <div class="corousel-item__title">
                                         <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
                                     </div>
                                     
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news " alt="..." style="filter: brightness(70%)">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news rounded " alt="..." style="filter: brightness(70%)">
                                     <div class="corousel-item__title">
                                         <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news" alt="..." style="filter: brightness(70%)">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news rounded" alt="..." style="filter: brightness(70%)">
                                     <div class="corousel-item__title">
                                         <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
                                     </div>

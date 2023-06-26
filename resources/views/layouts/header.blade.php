@@ -12,8 +12,6 @@
                         </div>
 
                         <div class="middle-box">
-
-
                             <div class="search-box" style="position: relative;left : 10px ">
                                 <div class="input-group">
                                     <input type="search" style="width: 44vw;" class="form-control" placeholder="Cari Program Csr ..."
@@ -70,114 +68,116 @@
 
     <div class="container-fluid-lg">
         <div class="row">
-            <div class="col-12">
-                <div class="header-nav">
-                    <div class="col-3" >
+            <div class="col-12 d-flex">
+                <div class="col-3">
 
-                    
-                        <div class="header-nav-left">
-                            <button class="dropdown-category">
-                                <i data-feather="align-left"></i>
-                                <span class="me-3">Program CSR</span>
-                                <i class="fa fa-angle-down"></i>
-                            </button>
-
-                            <div class="category-dropdown">
-                                <div class="category-title">
-                                    <h5>Program CSR</h5>
-                                    <button type="button" class="btn p-0 close-button text-content">
-                                        <i class="fa-solid fa-xmark"></i>
-                                    </button>
+                    <div class="header-nav ">
+                            <div class="header-nav-left">
+                                <button class="dropdown-category">
+                                    <i data-feather="align-left"></i>
+                                    <span class="me-3">Program CSR</span>
+                                    <i class="fa fa-angle-down"></i>
+                                </button>
+    
+                                <div class="category-dropdown">
+                                    <div class="category-title">
+                                        <h5>Program CSR</h5>
+                                        <button type="button" class="btn p-0 close-button text-content">
+                                            <i class="fa-solid fa-xmark"></i>
+                                        </button>
+                                    </div>
+    
+                                    <ul class="category-list">
+                                        <li class="onhover-category-list">
+                                            <a href="javascript:void(0)" class="category-name">
+                                                <h6>Categories 1</h6>
+                                                <i class="fa-solid fa-angle-right"></i>
+                                            </a>
+    
+                                            <div class="onhover-category-box">
+                                                <div class="list-1">
+                                                    <div class="category-title-box">
+                                                        <h5>Organic Vegetables</h5>
+                                                    </div>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="javascript:void(0)">Potato & Tomato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="onhover-category-list">
+                                            <a href="javascript:void(0)" class="category-name">
+                                                <h6>Categories 2</h6>
+                                                <i class="fa-solid fa-angle-right"></i>
+                                            </a>
+    
+                                            <div class="onhover-category-box">
+                                                <div class="list-1">
+                                                    <div class="category-title-box">
+                                                        <h5>Organic Vegetables</h5>
+                                                    </div>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="javascript:void(0)">Potato & Tomato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="onhover-category-list">
+                                            <a href="javascript:void(0)" class="category-name">
+                                                <h6>Categories 3</h6>
+                                                <i class="fa-solid fa-angle-right"></i>
+                                            </a>
+    
+                                            <div class="onhover-category-box">
+                                                <div class="list-1">
+                                                    <div class="category-title-box">
+                                                        <h5>Organic Vegetables</h5>
+                                                    </div>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="javascript:void(0)">Potato & Tomato</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
                                 </div>
-
-                                <ul class="category-list">
-                                    <li class="onhover-category-list">
-                                        <a href="javascript:void(0)" class="category-name">
-                                            <h6>Categories 1</h6>
-                                            <i class="fa-solid fa-angle-right"></i>
-                                        </a>
-
-                                        <div class="onhover-category-box">
-                                            <div class="list-1">
-                                                <div class="category-title-box">
-                                                    <h5>Organic Vegetables</h5>
-                                                </div>
-                                                <ul>
-                                                    <li>
-                                                        <a href="javascript:void(0)">Potato & Tomato</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="onhover-category-list">
-                                        <a href="javascript:void(0)" class="category-name">
-                                            <h6>Categories 2</h6>
-                                            <i class="fa-solid fa-angle-right"></i>
-                                        </a>
-
-                                        <div class="onhover-category-box">
-                                            <div class="list-1">
-                                                <div class="category-title-box">
-                                                    <h5>Organic Vegetables</h5>
-                                                </div>
-                                                <ul>
-                                                    <li>
-                                                        <a href="javascript:void(0)">Potato & Tomato</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="onhover-category-list">
-                                        <a href="javascript:void(0)" class="category-name">
-                                            <h6>Categories 3</h6>
-                                            <i class="fa-solid fa-angle-right"></i>
-                                        </a>
-
-                                        <div class="onhover-category-box">
-                                            <div class="list-1">
-                                                <div class="category-title-box">
-                                                    <h5>Organic Vegetables</h5>
-                                                </div>
-                                                <ul>
-                                                    <li>
-                                                        <a href="javascript:void(0)">Potato & Tomato</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
                             </div>
-                        </div>
+                       
+    
+                 
+                     
                     </div>
-
-                    <div class="col-7" id="navii">
-             
-                    <div class="header-nav-middle">
-                        <div class="main-nav navbar navbar-expand-xl navbar-light navbar-sticky">
-                            <div class="offcanvas offcanvas-collapse order-xl-2" id="primaryMenu">
+                </div>
+                <div class="col-6">
+                    <div class="header-nav-middle ">
+                        <div class="main-nav navbar navbar-expand-xl navbar-light navbar-sticky " style="right: 10px !important" >
+                            <div class="offcanvas offcanvas-collapse order-xl-2" id="primaryMenu" >
                                 <div class="offcanvas-header navbar-shadow">
                                     <h5>Menu</h5>
                                     <button class="btn-close lead" type="button" data-bs-dismiss="offcanvas"
                                         aria-label="Close"></button>
                                 </div>
-                                <div class="offcanvas-body">
+                                <div class="offcanvas-body" >
                                     <ul class="navbar-nav">
                                         <li class="nav-item">
                                             <a class="nav-link" href="/">
                                                 Home
                                             </a>
                                         </li>
-
+    
                                             <li class="nav-item dropdown">
                                                 <a class="nav-link dropdown-toggle" href="javascript:void(0)"
                                                     data-bs-toggle="dropdown">
                                                     Profile
                                                     <i class="fa fa-angle-down ms-2"></i>
                                                 </a>
-
+    
                                                 <ul class="dropdown-menu">
                                                     <li>
                                                         <a class="dropdown-item" href="{{ url('/profile/jepara') }}">Kabupaten Jepara</a>
@@ -190,14 +190,14 @@
                                                     </li>
                                                 </ul>
                                             </li>
-
+    
                                             <li class="nav-item dropdown">
                                                 <a class="nav-link dropdown-toggle" href="javascript:void(0)"
                                                     data-bs-toggle="dropdown">
                                                     Informasi CSR
                                                     <i class="fa fa-angle-down ms-2"></i>
                                                 </a>
-
+    
                                                 <ul class="dropdown-menu">
                                                     <li>
                                                         <a class="dropdown-item" href="{{ url('/information/csr-about') }}">Si Moncer</a>
@@ -224,7 +224,7 @@
                                                     Galeri CSR
                                                     <i class="fa fa-angle-down ms-2"></i>
                                                 </a>
-
+    
                                                 <ul class="dropdown-menu">
                                                     <li>
                                                         <a class="dropdown-item" href="{{ url('/gallery/csr-gallery') }}">Kegiatan CSR</a>
@@ -242,8 +242,8 @@
                                                     Laporan
                                                     <i class="fa fa-angle-down ms-2"></i>
                                                 </a>
-
-
+    
+    
                                                 <ul class="dropdown-menu">
                                                     <li>
                                                         <a class="dropdown-item"
@@ -270,13 +270,14 @@
                                        
                                     </div>
                                
-
+    
                                 </div>
                             </div>
-                        </div>
                     </div>
-                    
-                    <button class="btn theme-bg-yellow text-white">
+                </div>
+               
+                <div class="col-3 d-flex justify-content-end">
+                    <button class="btn theme-bg-yellow text-white justify-content-end">
                         <img title="Video Tutorial" src="{{ asset('user/images/icon/icon recorder.png') }}" style="width: 25px; height:25px" alt="" srcset="">
                     </button>
                 </div>

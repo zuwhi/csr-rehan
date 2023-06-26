@@ -33,7 +33,7 @@
     </div>
 </section>
 <!-- Breadcrumb Section End -->
-<section class="fresh-vegetable-section section-lg-space">
+<section class="fresh-vegetable-section mt-3">
     <div class="container-fluid-lg">
         <div class="row gx-xl-5 gy-xl-0 g-3 ratio_148_1">
             <div class="col-xl-6 col-12">
