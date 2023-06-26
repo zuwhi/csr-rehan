@@ -33,7 +33,7 @@
     </div>
 </section>
 <!-- Breadcrumb Section End -->
-<section class="fresh-vegetable-section section-lg-space">
+<section class="fresh-vegetable-section">
     <div class="container-fluid-lg">
         <div class="row gx-xl-5 gy-xl-0 g-3 ratio_148_1">
             <div class="col-xl-6 col-12">
@@ -61,340 +61,27 @@
                     <div>
                         <div class="review-title">
                             <h4>Kabupaten Jepara</h4>
-                            <h2>We make Organic Food In Market</h2>
+                            <h2>Profile Kabupaten Jepara</h2>
                         </div>
-
                         <div class="delivery-list">
-                            <p class="text-content">Just a few seconds to measure your body temperature. Up to 5
-                                users! The battery lasts up to 2 years. There are many variations of passages of
-                                Lorem Ipsum available.We started in 2019 and haven't stopped smashing it since. A
-                                global brand that doesn't sleep, we are 24/7 and always bringing something new with
-                                over 100 new products dropping on the monhtly, bringing you the latest looks for
-                                less.</p>
-
-                            <ul class="delivery-box">
-                                <li>
-                                    <div class="delivery-box">
-                                        <div class="delivery-icon">
-                                            <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/delivery.svg" class="blur-up lazyloaded" alt="">
-                                        </div>
-
-                                        <div class="delivery-detail">
-                                            <h5 class="text">Free delivery for all orders</h5>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="delivery-box">
-                                        <div class="delivery-icon">
-                                            <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/leaf.svg" class="blur-up lazyloaded" alt="">
-                                        </div>
-
-                                        <div class="delivery-detail">
-                                            <h5 class="text">Only fresh foods</h5>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="delivery-box">
-                                        <div class="delivery-icon">
-                                            <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/delivery.svg" class="blur-up lazyloaded" alt="">
-                                        </div>
-
-                                        <div class="delivery-detail">
-                                            <h5 class="text">Free delivery for all orders</h5>
-                                        </div>
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <div class="delivery-box">
-                                        <div class="delivery-icon">
-                                            <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/leaf.svg" class="blur-up lazyloaded" alt="">
-                                        </div>
-
-                                        <div class="delivery-detail">
-                                            <h5 class="text">Only fresh foods</h5>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                            <p class="text-content fs-6" style="text-align: justify">Jepara (bahasa Jawa: ꦏꦧꦸꦥꦠꦺꦤ꧀​ꦗꦼꦥꦫ, translit. Kabupatèn Jepara, pengucapan bahasa Jawa: [kabupat̪ɛn d͡ʒəpɔrɔ]) adalah salah satu kabupaten di Provinsi Jawa Tengah. Ibu kotanya adalah Kecamatan Jepara. Kabupaten ini berbatasan dengan Laut Jawa di barat dan utara, Kabupaten Pati dan Kabupaten Kudus di timur, serta Kabupaten Demak di selatan. Wilayah Kabupaten Jepara juga meliputi Kepulauan Karimunjawa, yang berada di Laut Jawa.</p>
                         </div>
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Client Section Start -->
-<section class="client-section section-lg-space">
+
+<section class="fresh-vegetable-section section-lg-space">
     <div class="container-fluid-lg">
-        <div class="row">
-            <div class="col-12">
-                <div class="about-us-title text-center">
-                    <h4>What We Do</h4>
-                    <h2 class="center">We are Trusted by Clients</h2>
-                </div>
-
-                <div class="slider-3_1 product-wrapper">
-                    <div>
-                        <div class="clint-contain">
-                            <div class="client-icon">
-                                <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/work.svg" class="blur-up lazyload" alt="">
-                            </div>
-                            <h2>10</h2>
-                            <h4>Business Years</h4>
-                            <p>A coffee shop is a small business that sells coffee, pastries, and other morning
-                                goods. There are many different types of coffee shops around the world.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="clint-contain">
-                            <div class="client-icon">
-                                <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/buy.svg" class="blur-up lazyload" alt="">
-                            </div>
-                            <h2>80 K+</h2>
-                            <h4>Products Sales</h4>
-                            <p>Some coffee shops have a seating area, while some just have a spot to order and then
-                                go somewhere else to sit down. The coffee shop that I am going to.</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="clint-contain">
-                            <div class="client-icon">
-                                <img src="https://themes.pixelstrap.com/fastkart/assets/svg/3/user.svg" class="blur-up lazyload" alt="">
-                            </div>
-                            <h2>90%</h2>
-                            <h4>Happy Customers</h4>
-                            <p>My goal for this coffee shop is to be able to get a coffee and get on with my day.
-                                It's a Thursday morning and I am rushing between meetings.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+        <div class="row gx-xl-5 gy-xl-0 g-3 ratio_148_1">
+        <p class="text-content fs-6" style="line-height: 25px;text-align:justify">Menurut sejarahwan Hindia Belanda Cornelis Lekkerkerker, nama Jepara berasal dari kata Ujungpara yang kemudian berubah menjadi kata Ujung Mara, Jumpara, dan akhirnya Jepara atau Japara. Kata Ujungpara berasal dari bahasa Jawa yang terdiri atas dua kata, yaitu Ujung dan Para. Kata Ujung berarti “bagian darat yang menjorok jauh ke laut”, sedangkan kata Para, berarti "menunjukkan arah”. Dengan demikian, kata Ujungpara berarti “suatu daerah yang letaknya menjorok jauh ke laut”. Dalam sumber lain, kata Para merupakan kependekan dari Pepara, yang artinya "bebakulan mrono mrene" (berdagang ke sana ke mari). Dengan artian ini, maka kata Ujungpara juga berarti "sebuah ujung tempat bermukimnya para pedagang dari berbagai daerah".</p>
+        <p class="text-content  fs-6" style="line-height: 25px;text-align:justify">Secara geografis Kabupaten Jepara terletak pada posisi 110°9'48,02" sampai 110°58'37,40" Bujur Timur dan 5°43'20,67" sampai 6°47'25,83" Lintang Selatan, sehingga merupakan daerah paling ujung sebelah utara dari Provinsi Jawa Tengah. Kabupaten Jepara terletak di Pantura Timur Jawa Tengah yang bagian barat dan utaranya dibatasi oleh laut. Bagian timur wilayah kabupaten ini merupakan daerah pegunungan. Luas wilayah daratan Kabupaten Jepara 1.004,132 km2 dengan panjang garis pantai 72 km. Wilayah tersempit adalah Kecamatan Kalinyamatan (24,179 km²) sedangkan wilayah terluas adalah Kecamatan Keling (231,758 km²).</p>
+        <p class="text-content fs-6" style="line-height: 25px;text-align:justify">Wilayah Kabupaten Jepara juga meliputi Kepulauan Karimunjawa, yakni gugusan pulau-pulau di Laut Jawa. Dua pulau terbesarnya adalah Pulau Karimunjawa dan Pulau Kemujan. Sebagian besar wilayah Karimunjawa dilindungi dalam Cagar Alam Laut Karimunjawa.</p>
+        </div></div>
 </section>
-<!-- Client Section End -->
 
-<!-- Team Section Start -->
-<section class="team-section section-lg-space">
-    <div class="container-fluid-lg">
-        <div class="about-us-title text-center">
-            <h4 class="text-content">Our Creative Team</h4>
-            <h2 class="center">CSR team member</h2>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="slider-user product-wrapper">
-                    <div>
-                        <div class="team-box">
-                            <div class="team-iamge team-image-border">
-                                <img src="{{ asset('user/images/slider (1).jpg') }}" class="img-fluid blur-up lazyload"
-                                    alt="">
-                            </div>
 
-                            <div class="team-name">
-                                <h3>Anna Baranov</h3>
-                                <h5>Marketing</h5>
-                                <p>cheeseburger airedale mozzarella the big cheese fondue.</p>
-                                <ul class="team-media">
-                                    <li>
-                                        <a href="https://www.facebook.com/" class="fb-bg">
-                                            <i class="fa-brands fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://in.pinterest.com/" class="pint-bg">
-                                            <i class="fa-brands fa-pinterest-p"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://twitter.com/" class="twitter-bg">
-                                            <i class="fa-brands fa-twitter"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://www.instagram.com/" class="insta-bg">
-                                            <i class="fa-brands fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="team-box">
-                            <div class="team-iamge team-image-border">
-                                <img src="{{ asset('user/images/slider (1).jpg') }}" class="img-fluid blur-up lazyload"
-                                    alt="">
-                            </div>
-
-                            <div class="team-name">
-                                <h3>Anna Baranov</h3>
-                                <h5>Marketing</h5>
-                                <p>cheese on toast mozzarella bavarian bergkase smelly cheese cheesy feet.</p>
-                                <ul class="team-media">
-                                    <li>
-                                        <a href="https://www.facebook.com/" class="fb-bg">
-                                            <i class="fa-brands fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://in.pinterest.com/" class="pint-bg">
-                                            <i class="fa-brands fa-pinterest-p"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://twitter.com/" class="twitter-bg">
-                                            <i class="fa-brands fa-twitter"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://www.instagram.com/" class="insta-bg">
-                                            <i class="fa-brands fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="team-box">
-                            <div class="team-iamge team-image-border">
-                                <img src="{{ asset('user/images/slider (1).jpg') }}" class="img-fluid blur-up lazyload"
-                                    alt="">
-                            </div>
-
-                            <div class="team-name">
-                                <h3>Anna Baranov</h3>
-                                <h5>Marketing</h5>
-                                <p>camembert de normandie. Bocconcini rubber cheese fromage frais port-salut.</p>
-                                <ul class="team-media">
-                                    <li>
-                                        <a href="https://www.facebook.com/" class="fb-bg">
-                                            <i class="fa-brands fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://in.pinterest.com/" class="pint-bg">
-                                            <i class="fa-brands fa-pinterest-p"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://twitter.com/" class="twitter-bg">
-                                            <i class="fa-brands fa-twitter"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://www.instagram.com/" class="insta-bg">
-                                            <i class="fa-brands fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="team-box">
-                            <div class="team-iamge team-image-border">
-                                <img src="{{ asset('user/images/slider (1).jpg') }}" class="img-fluid blur-up lazyload"
-                                    alt="" style="object-fit: cover;
-                                    object-position: center;">
-                            </div>
-
-                            <div class="team-name">
-                                <h3>Anna Baranov</h3>
-                                <h5>Marketing</h5>
-                                <p>Fondue stinking bishop goat. Macaroni cheese croque monsieur cottage cheese.</p>
-                                <ul class="team-media">
-                                    <li>
-                                        <a href="https://www.facebook.com/" class="fb-bg">
-                                            <i class="fa-brands fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://in.pinterest.com/" class="pint-bg">
-                                            <i class="fa-brands fa-pinterest-p"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://twitter.com/" class="twitter-bg">
-                                            <i class="fa-brands fa-twitter"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://www.instagram.com/" class="insta-bg">
-                                            <i class="fa-brands fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div class="team-box">
-                            <div class="team-iamge team-image-border">
-                                <img src="{{ asset('user/images/slider (1).jpg') }}" class="img-fluid blur-up lazyload"
-                                    alt="">
-                            </div>
-
-                            <div class="team-name">
-                                <h3>Anna Baranov</h3>
-                                <h5>Marketing</h5>
-                                <p>squirty cheese cheddar macaroni cheese airedale cheese triangles.</p>
-                                <ul class="team-media">
-                                    <li>
-                                        <a href="https://www.facebook.com/" class="fb-bg">
-                                            <i class="fa-brands fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://in.pinterest.com/" class="pint-bg">
-                                            <i class="fa-brands fa-pinterest-p"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://twitter.com/" class="twitter-bg">
-                                            <i class="fa-brands fa-twitter"></i>
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="https://www.instagram.com/" class="insta-bg">
-                                            <i class="fa-brands fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Team Section End -->
 @endsection

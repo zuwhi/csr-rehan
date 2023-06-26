@@ -22,6 +22,37 @@
                     <div class="row g-4 ratio_65">
 
                         {{-- preview: 12 berita --}}
+                        <div id="carouselExampleControls" class="carousel slide h-25" data-bs-ride="carousel">
+                            <div class="carousel-inner h-25 ">
+                                <div class="carousel-item active d-flex">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news" alt="..." style="filter: brightness(70%)">
+                                    <div class="corousel-item__title">
+                                        <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
+                                    </div>
+                                    
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news " alt="..." style="filter: brightness(70%)">
+                                    <div class="corousel-item__title">
+                                        <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="{{ asset('user/images/slider (1).jpg') }}" class="d-block w-100 carousel-img-news" alt="..." style="filter: brightness(70%)">
+                                    <div class="corousel-item__title">
+                                        <h3>Penyerahan Program CSR Oleh Gubernur Jateng di Karimun Jawa - Jepara</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>  
                         <div class="col-xxl-4 col-sm-6">
                             <div class="blog-box wow fadeInUp">
                                 <div class="blog-image">
@@ -451,9 +482,6 @@
                                     </div>
                                 </div>
                             </div>
-
-                    
-
                         </div>
                     </div>
                 </div>

@@ -306,3 +306,7 @@ right: -143px;
     height: 150px;
 }
 
+.carousel-img-news{
+    height: 400px;
+    object-fit: cover;
+}
